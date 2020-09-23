@@ -1,0 +1,282 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Program Files\Java\django site\.metadata\.plugins\org.eclipse.core.resources\.projects\mysite\com.python.pydev.analysis\v2_indexcache
+bookmark.views|1566740134000000000|C:\Program Files\Java\django site\mysite\bookmark\views.py
+blog.tests|1566740134000000000|C:\Program Files\Java\django site\mysite\blog\tests.py
+polls.tests|1591853294000000000|C:\Program Files\Java\django site\mysite\polls\tests.py
+polls.models|1591853486000000000|C:\Program Files\Java\django site\mysite\polls\models.py
+wsgi|1566740133000000000|C:\Program Files\Java\django site\mysite\wsgi.py
+bookmark.models|1566740134000000000|C:\Program Files\Java\django site\mysite\bookmark\models.py
+polls.__init__|1591853294000000000|C:\Program Files\Java\django site\mysite\polls\__init__.py
+blog.__init__|1566740134000000000|C:\Program Files\Java\django site\mysite\blog\__init__.py
+polls.urls|1591853652000000000|C:\Program Files\Java\django site\mysite\polls\urls.py
+photo.tests|1566740134000000000|C:\Program Files\Java\django site\mysite\photo\tests.py
+bookmark.admin|1566740134000000000|C:\Program Files\Java\django site\mysite\bookmark\admin.py
+mysite.__init__|1566740133000000000|C:\Program Files\Java\django site\mysite\mysite\__init__.py
+blog.migrations.0001_initial|1591844864000000000|C:\Program Files\Java\django site\mysite\blog\migrations\0001_initial.py
+photo.migrations.0001_initial|1592286643907790000|C:\Program Files\Java\django site\mysite\photo\migrations\0001_initial.py
+photo.migrations.__init__|1592277233431380000|C:\Program Files\Java\django site\mysite\photo\migrations\__init__.py
+photo.views|1592805081758265000|C:\Program Files\Java\django site\mysite\photo\views.py
+bookmark.migrations.__init__|1591834418000000000|C:\Program Files\Java\django site\mysite\bookmark\migrations\__init__.py
+photo.urls|1566740134000000000|C:\Program Files\Java\django site\mysite\photo\urls.py
+photo.apps|1566740134000000000|C:\Program Files\Java\django site\mysite\photo\apps.py
+blog.templates.blog.__init__|1591844684000000000|C:\Program Files\Java\django site\mysite\blog\templates\blog\__init__.py
+bookmark.templates.bookmark.__init__|1591836448000000000|C:\Program Files\Java\django site\mysite\bookmark\templates\bookmark\__init__.py
+blog.urls|1566740134000000000|C:\Program Files\Java\django site\mysite\blog\urls.py
+mysite.asgi|1591834292000000000|C:\Program Files\Java\django site\mysite\mysite\asgi.py
+blog.apps|1566740134000000000|C:\Program Files\Java\django site\mysite\blog\apps.py
+bookmark.urls|1566740134000000000|C:\Program Files\Java\django site\mysite\bookmark\urls.py
+polls.admin|1591853682000000000|C:\Program Files\Java\django site\mysite\polls\admin.py
+blog.models|1566740134000000000|C:\Program Files\Java\django site\mysite\blog\models.py
+mysite.wsgi|1566740133000000000|C:\Program Files\Java\django site\mysite\mysite\wsgi.py
+blog.admin|1566740134000000000|C:\Program Files\Java\django site\mysite\blog\admin.py
+blog.templates.taggit.__init__|1592269454984185000|C:\Program Files\Java\django site\mysite\blog\templates\taggit\__init__.py
+bookmark.migrations.0001_initial|1591838354000000000|C:\Program Files\Java\django site\mysite\bookmark\migrations\0001_initial.py
+polls.views|1591853486000000000|C:\Program Files\Java\django site\mysite\polls\views.py
+blog.migrations.0002_post_tags|1592189639000000000|C:\Program Files\Java\django site\mysite\blog\migrations\0002_post_tags.py
+blog.views|1566740134000000000|C:\Program Files\Java\django site\mysite\blog\views.py
+photo.forms|1566740134000000000|C:\Program Files\Java\django site\mysite\photo\forms.py
+polls.migrations.0001_initial|1591853698000000000|C:\Program Files\Java\django site\mysite\polls\migrations\0001_initial.py
+mysite.settings|1593044363598467000|C:\Program Files\Java\django site\mysite\mysite\settings.py
+blog.migrations.__init__|1591834506000000000|C:\Program Files\Java\django site\mysite\blog\migrations\__init__.py
+polls.migrations.__init__|1591853294000000000|C:\Program Files\Java\django site\mysite\polls\migrations\__init__.py
+photo.models|1566740134000000000|C:\Program Files\Java\django site\mysite\photo\models.py
+blog.templates.__init__|1591844664000000000|C:\Program Files\Java\django site\mysite\blog\templates\__init__.py
+photo.admin|1566740134000000000|C:\Program Files\Java\django site\mysite\photo\admin.py
+mysite.urls|1592789440559244000|C:\Program Files\Java\django site\mysite\mysite\urls.py
+mysite.views|1566740134000000000|C:\Program Files\Java\django site\mysite\mysite\views.py
+polls.apps|1591853486000000000|C:\Program Files\Java\django site\mysite\polls\apps.py
+manage|1566740133000000000|C:\Program Files\Java\django site\mysite\manage.py
+bookmark.tests|1566740134000000000|C:\Program Files\Java\django site\mysite\bookmark\tests.py
+blog.forms|1566740134000000000|C:\Program Files\Java\django site\mysite\blog\forms.py
+photo.fields|1566740134000000000|C:\Program Files\Java\django site\mysite\photo\fields.py
+photo.__init__|1566740134000000000|C:\Program Files\Java\django site\mysite\photo\__init__.py
+blog.fixture.__init__|1592446735652085000|C:\Program Files\Java\django site\mysite\blog\fixture\__init__.py
+bookmark.apps|1566740134000000000|C:\Program Files\Java\django site\mysite\bookmark\apps.py
+bookmark.templates.__init__|1591836412000000000|C:\Program Files\Java\django site\mysite\bookmark\templates\__init__.py
+bookmark.__init__|1566740134000000000|C:\Program Files\Java\django site\mysite\bookmark\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+129
+61=C:\Program Files\Java\django site\mysite\blog\forms.py
+110=PhotoDelV
+41=C:\Program Files\Java\django site\mysite\bookmark\migrations\0001_initial.py
+84=Migration
+25=C:\Program Files\Java\django site\mysite\bookmark\models.py
+116=BlogConfig
+12=polls.urls
+55=C:\Program Files\Java\django site\mysite\polls\apps.py
+96=PhotoChangeLV
+114=BookmarkDeleteView
+97=AlbumChangeLV
+27=C:\Program Files\Java\django site\mysite\bookmark\views.py
+127=TagCloudTV
+78=PostAV
+5=C:\Program Files\Java\django site\mysite\photo\admin.py
+44=blog.migrations.0001_initial
+121=AlbumPhotoUV.form_valid
+48=photo.migrations.0001_initial
+2=photo.views
+89=BookmarkUpdateView
+16=photo.urls
+63=C:\Program Files\Java\django site\mysite\blog\admin.py
+82=PostTAV
+100=BookmarkChangeLV
+75=Bookmark
+18=blog.urls
+22=mysite.asgi
+35=C:\Program Files\Java\django site\mysite\polls\views.py
+15=C:\Program Files\Java\django site\mysite\photo\urls.py
+24=blog.apps
+60=blog.models
+92=AlbumPhotoCV
+20=mysite.wsgi
+108=AlbumLV
+64=blog.admin
+51=C:\Program Files\Java\django site\mysite\photo\forms.py
+101=PostAdmin
+46=blog.migrations.0002_post_tags
+58=blog.views
+124=Photo.Meta
+120=AlbumPhotoCV.form_valid
+87=PostUpdateView
+59=C:\Program Files\Java\django site\mysite\blog\models.py
+76=ThumbnailImageFieldFile
+50=polls.migrations.0001_initial
+73=Question
+9=C:\Program Files\Java\django site\mysite\bookmark\urls.py
+86=PostCreateView
+115=PostDeleteView
+81=PostDAV
+4=photo.models
+38=mysite.views
+68=mysite.urls
+80=PostMAV
+103=OwnerOnlyMixin
+112=BookmarkLV
+105=BookmarkAdmin
+129=UserCreateDoneTV
+33=C:\Program Files\Java\django site\mysite\polls\models.py
+99=TaggedObjectLV
+79=PostYAV
+122=OwnerOnlyMixin.get
+47=C:\Program Files\Java\django site\mysite\photo\migrations\0001_initial.py
+56=polls.apps
+113=BookmarkDV
+65=C:\Program Files\Java\django site\mysite\photo\fields.py
+62=blog.forms
+31=C:\Program Files\Java\django site\mysite\bookmark\admin.py
+66=photo.fields
+30=bookmark.apps
+94=SearchFormView
+107=AlbumDV
+28=bookmark.views
+21=C:\Program Files\Java\django site\mysite\mysite\asgi.py
+74=Choice
+83=Post.Meta
+3=C:\Program Files\Java\django site\mysite\photo\models.py
+98=PostDV
+14=wsgi
+34=polls.models
+70=Album
+71=Photo
+23=C:\Program Files\Java\django site\mysite\blog\apps.py
+26=bookmark.models
+91=PhotoUV
+117=PhotoConfig
+1=C:\Program Files\Java\django site\mysite\photo\views.py
+93=AlbumPhotoUV
+125=PostSearchForm
+17=C:\Program Files\Java\django site\mysite\blog\urls.py
+109=PhotoDV
+32=bookmark.admin
+45=C:\Program Files\Java\django site\mysite\blog\migrations\0002_post_tags.py
+7=C:\Program Files\Java\django site\mysite\mysite\settings.py
+77=PostLV
+67=C:\Program Files\Java\django site\mysite\mysite\urls.py
+29=C:\Program Files\Java\django site\mysite\bookmark\apps.py
+128=HomeView
+54=photo.apps
+90=PhotoCV
+53=C:\Program Files\Java\django site\mysite\photo\apps.py
+37=C:\Program Files\Java\django site\mysite\mysite\views.py
+39=C:\Program Files\Java\django site\mysite\manage.py
+106=PhotoAdmin
+10=bookmark.urls
+11=C:\Program Files\Java\django site\mysite\polls\urls.py
+42=bookmark.migrations.0001_initial
+126=Post.save
+36=polls.views
+118=BookmarkConfig
+52=photo.forms
+19=C:\Program Files\Java\django site\mysite\mysite\wsgi.py
+95=UserCreateView
+111=AlbumDelV
+57=C:\Program Files\Java\django site\mysite\blog\views.py
+88=BookmarkCreateView
+8=mysite.settings
+13=C:\Program Files\Java\django site\mysite\wsgi.py
+6=photo.admin
+43=C:\Program Files\Java\django site\mysite\blog\migrations\0001_initial.py
+85=PhotoInline
+49=C:\Program Files\Java\django site\mysite\polls\migrations\0001_initial.py
+72=Post
+119=PollsConfig
+69=ThumbnailImageField
+40=manage
+102=PostChangeLV
+104=AlbumAdmin
+123=Album.Meta
+-- END DICTIONARY
+-- START TREE 1
+39
+alb|8|AlbumLV!1^12#7*17@AlbumDelV!1^63#7*17@AlbumDV!1^16#7*17@Album!3^7#7*33@AlbumChangeLV!1^55#7*17@AlbumPhotoCV!1^69#7*17@AlbumAdmin!5^12#7*49@AlbumPhotoUV!1^97#7*17@
+all|1|ALLOWED_HOSTS!7^28#1*67@
+app|7|app_name!9^6#1*83@app_name!11^4#1*99@application!13^16#1*115@app_name!15^6#1*131@app_name!17^5#1*147@application!19^16#1*163@application!21^16#1*179@
+aut|1|AUTH_PASSWORD_VALIDATORS!7^111#1*67@
+bas|1|BASE_DIR!7^16#1*67@
+blo|1|BlogConfig!23^4#7*193@
+boo|9|Bookmark!25^5#7*209@BookmarkDeleteView!27^40#7*225@BookmarkDV!27^13#7*225@BookmarkChangeLV!27^27#7*225@BookmarkUpdateView!27^34#7*225@BookmarkLV!27^9#7*225@BookmarkCreateView!27^17#7*225@BookmarkConfig!29^4#7*241@BookmarkAdmin!31^6#7*257@
+cho|1|Choice!33^12#7*273@
+dat|1|DATABASES!7^92#1*67@
+deb|1|DEBUG!7^26#1*67@
+det|1|detail!35^13#5*290@
+dis|2|DISQUS_SHORTNAME!7^145#1*67@DISQUS_MY_DOMAIN!7^146#1*67@
+hom|1|HomeView!37^11#7*305@
+ind|1|index!35^8#5*290@
+ins|1|INSTALLED_APPS!7^51#1*67@
+lan|1|LANGUAGE_CODE!7^117#1*67@
+log|1|LOGIN_REDIRECT_URL!7^148#1*67@
+mai|1|main!39^7#5*322@
+med|2|MEDIA_URL!7^139#1*67@MEDIA_ROOT!7^140#1*67@
+mid|1|MIDDLEWARE!7^61#1*67@
+mig|5|Migration!41^6#7*337@Migration!43^6#7*353@Migration!45^7#7*369@Migration!47^8#7*385@Migration!49^7#7*401@
+own|1|OwnerOnlyMixin!37^26#7*305@
+pho|10|PhotoInlineFormSet!51^7#1*419@PhotoUV!1^43#7*17@PhotoCV!1^25#7*17@Photo!3^22#7*33@PhotoConfig!53^4#7*433@PhotoChangeLV!1^35#7*17@PhotoDV!1^20#7*17@PhotoAdmin!5^18#7*49@PhotoDelV!1^49#7*17@PhotoInline!5^6#7*49@
+pol|1|PollsConfig!55^4#7*449@
+pos|14|PostLV!57^19#7*465@PostTAV!57^61#7*465@PostYAV!57^45#7*465@PostDV!57^27#7*465@PostMAV!57^51#7*465@PostDAV!57^56#7*465@PostUpdateView!57^120#7*465@PostChangeLV!57^113#7*465@Post!59^8#7*481@PostSearchForm!61^4#7*497@PostAdmin!63^6#7*513@PostAV!57^40#7*465@PostCreateView!57^101#7*465@PostDeleteView!57^126#7*465@
+que|1|Question!33^4#7*273@
+res|1|results!35^17#5*290@
+roo|1|ROOT_URLCONF!7^63#1*67@
+sea|1|SearchFormView!57^85#7*465@
+sec|1|SECRET_KEY!7^23#1*67@
+sta|2|STATICFILES_DIRS!7^137#1*67@STATIC_URL!7^133#1*67@
+tag|4|TagCloudTV!57^67#7*465@TAGGIT_CASE_INSENSITIVE!7^142#1*67@TAGGIT_LIMIT!7^143#1*67@TaggedObjectLV!57^71#7*465@
+tem|1|TEMPLATES!7^79#1*67@
+thu|2|ThumbnailImageField!65^40#7*529@ThumbnailImageFieldFile!65^7#7*529@
+tim|1|TIME_ZONE!7^120#1*67@
+url|5|urlpatterns!9^30#1*83@urlpatterns!11^10#1*99@urlpatterns!67^39#1*547@urlpatterns!17^60#1*147@urlpatterns!15^45#1*131@
+use|5|USE_I18N!7^122#1*67@USE_TZ!7^127#1*67@UserCreateView!37^16#7*305@UserCreateDoneTV!37^22#7*305@USE_L10N!7^124#1*67@
+vot|1|vote!35^21#5*290@
+wsg|1|WSGI_APPLICATION!7^81#1*67@
+-- END TREE
+-- START TREE 2
+47
+__i|1|__init__!69&65^43#9*530@
+__s|6|__str__!70&3^15#9*34@__str__!71&3^33#9*34@__str__!72&59^24#9*482@__str__!73&33^8#9*274@__str__!74&33^17#9*274@__str__!75&25^10#9*210@
+_ad|1|_add_thumb!76&65^8#9*530@
+alb|1|album!71&3^23#5*35@
+att|1|attr_class!69&65^41#5*531@
+cho|1|choice_text!74&33^14#5*275@
+con|2|context_object_name!77&57^22#5*467@content!72&59^12#5*483@
+cre|1|create_dt!72&59^13#5*483@
+dat|5|date_field!78&57^42#5*467@date_field!79&57^47#5*467@date_field!80&57^53#5*467@date_field!81&57^58#5*467@date_field!82&57^63#5*467@
+db_|1|db_table!83&59^21#9*483@
+del|1|delete!76&65^34#9*530@
+dep|5|dependencies!84&47^13#5*387@dependencies!84&45^12#5*371@dependencies!84&43^11#5*355@dependencies!84&41^11#5*339@dependencies!84&49^12#5*403@
+des|3|description!70&3^9#5*35@description!71&3^25#5*35@description!72&59^11#5*483@
+ext|1|extra!85&5^8#5*51@
+fie|8|fields!86&57^103#5*467@fields!87&57^122#5*467@fields!88&27^19#5*227@fields!89&27^36#5*227@fields!90&1^27#5*19@fields!91&1^45#5*19@fields!92&1^71#5*19@fields!93&1^99#5*19@
+for|8|form_class!94&57^86#5*467@form_valid!88&27^22#9*226@form_valid!90&1^30#9*18@form_valid!92&1^82#9*18@form_valid!93&1^110#9*18@form_class!95&37^18#5*307@form_valid!94&57^89#9*466@form_valid!86&57^108#9*466@
+get|16|get_queryset!96&1^39#9*18@get_queryset!97&1^59#9*18@get_next!72&59^33#9*482@get_context_data!98&57^30#9*466@get_context_data!99&57^78#9*466@get_previous!72&59^30#9*482@get_queryset!100&27^30#9*226@get_context_data!92&1^74#9*18@get_context_data!93&1^102#9*18@get_queryset!101&63^12#9*514@get_absolute_url!72&59^27#9*482@get_queryset!99&57^75#9*466@get_queryset!102&57^116#9*466@get!103&37^30#9*306@get_absolute_url!70&3^18#9*34@get_absolute_url!71&3^36#9*34@
+ima|1|image!71&3^26#5*35@
+ini|5|initial!84&41^8#5*339@initial!84&49^9#5*403@initial!86&57^104#5*467@initial!84&43^8#5*355@initial!84&47^10#5*387@
+inl|1|inlines!104&5^13#5*51@
+lis|5|list_display!101&63^7#5*515@list_filter!101&63^8#5*515@list_display!105&31^7#5*259@list_display!104&5^14#5*51@list_display!106&5^19#5*51@
+mak|1|make_object_list!79&57^48#5*467@
+met|3|Meta!72&59^18#11*481@Meta!70&3^12#11*33@Meta!71&3^30#11*33@
+mod|29|model!107&1^17#5*19@model!108&1^13#5*19@model!109&1^21#5*19@model!90&1^26#5*19@model!96&1^36#5*19@model!91&1^44#5*19@model!92&1^70#5*19@model!110&1^50#5*19@model!93&1^98#5*19@model!97&1^56#5*19@model!111&1^64#5*19@model!112&27^10#5*227@model!113&27^14#5*227@model!88&27^18#5*227@model!89&27^35#5*227@model!114&27^41#5*227@model!85&5^7#5*51@model!98&57^28#5*467@modify_dt!72&59^14#5*483@model!77&57^20#5*467@model!78&57^41#5*467@model!79&57^46#5*467@model!115&57^127#5*467@model!80&57^52#5*467@model!81&57^57#5*467@model!82&57^62#5*467@model!99&57^73#5*467@model!86&57^102#5*467@model!87&57^121#5*467@
+nam|5|name!70&3^8#5*35@name!116&23^5#5*195@name!117&53^5#5*435@name!118&29^5#5*243@name!119&55^5#5*451@
+obj|3|object!120&1^89#13*19@object!121&1^114#13*19@object!122&37^31#9*307@
+ope|5|operations!84&41^22#5*339@operations!84&47^41#5*387@operations!84&45^20#5*371@operations!84&49^32#5*403@operations!84&43^32#5*355@
+ord|3|ordering!123&3^13#9*35@ordering!124&3^31#9*35@ordering!83&59^22#9*483@
+own|4|owner!70&3^10#5*35@owner!71&3^28#5*35@owner!72&59^16#5*483@owner!75&25^8#5*211@
+pag|1|paginate_by!77&57^23#5*467@
+per|1|permission_denied_message!103&37^28#5*307@
+pre|1|prepopulated_fields!101&63^10#5*515@
+pub|1|pub_date!73&33^6#5*275@
+que|2|question_text!73&33^5#5*275@question!74&33^13#5*275@
+rai|1|raise_exception!103&37^27#5*307@
+sav|2|save!72&59^36#9*482@save!76&65^23#9*530@
+sea|2|search_word!125&61^5#5*499@search_fields!101&63^9#5*515@
+slu|2|slug!72&59^10#5*483@slug!126&59^37#9*483@
+suc|13|success_url!95&37^19#5*307@success_url!86&57^106#5*467@success_url!87&57^123#5*467@success_url!115&57^128#5*467@success_url!90&1^28#5*19@success_url!91&1^46#5*19@success_url!110&1^51#5*19@success_url!111&1^65#5*19@success_url!92&1^72#5*19@success_url!93&1^100#5*19@success_url!88&27^20#5*227@success_url!89&27^37#5*227@success_url!114&27^42#5*227@
+tag|2|tags!72&59^15#5*483@tag_list!101&63^15#9*514@
+tem|11|template_name!96&1^37#5*19@template_name!97&1^57#5*19@template_name!100&27^28#5*227@template_name!77&57^21#5*467@template_name!127&57^68#5*467@template_name!99&57^72#5*467@template_name!94&57^87#5*467@template_name!102&57^114#5*467@template_name!128&37^12#5*307@template_name!95&37^17#5*307@template_name!129&37^23#5*307@
+thu|2|thumb_path!76&65^16#9*530@thumb_url!76&65^20#9*530@
+tit|3|title!72&59^9#5*483@title!75&25^6#5*211@title!71&3^24#5*35@
+upl|1|upload_dt!71&3^27#5*35@
+url|1|url!75&25^7#5*211@
+ver|2|verbose_name!83&59^19#9*483@verbose_name_plural!83&59^20#9*483@
+vot|1|votes!74&33^15#5*275@
+-- END TREE

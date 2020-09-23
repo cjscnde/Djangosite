@@ -1,0 +1,28 @@
+{
+	"folders": {},
+	"connections": {
+		"sqlite_jdbc-172c0233a1d-6489cc27cc6c34bb": {
+			"provider": "generic",
+			"driver": "sqlite_jdbc",
+			"name": "SQLite - db.sqlite3",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"database": "D:\\django workspaces\\mysite\\db.sqlite3",
+				"url": "jdbc:sqlite:D:\\django workspaces\\mysite\\db.sqlite3",
+				"type": "dev",
+				"handlers": {}
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Development",
+			"color": "255,255,255",
+			"description": "Regular development database",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false
+		}
+	}
+}
